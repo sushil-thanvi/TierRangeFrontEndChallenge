@@ -3,7 +3,7 @@ FrontEnd Challenge Tier Range
 
 High level Algo : 
 
-. Check If any row exist ( check object inside array if empty or not) by checking array length.
+1. Check If any row exist ( check object inside array if empty or not) by checking array length.
 
 2. If no row exists , then 1st row would be created with min/max qty along with unique name ( by using qty + units) & one more 2nd row would be created which will hold min value ( min + max of row 1) & max val would be empty.
 
