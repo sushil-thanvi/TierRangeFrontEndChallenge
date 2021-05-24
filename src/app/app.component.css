@@ -1,0 +1,32 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  h2 {
+      text-align: center;
+  }
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .green {
+      background-color: green;
+      border: 1px solid green;
+      color: white;
+      padding: 5px;
+      border-radius: 3px;;
+  }
+
+  .orange {
+    background-color: orange;
+    border: 1px solid orange;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;;
+  }

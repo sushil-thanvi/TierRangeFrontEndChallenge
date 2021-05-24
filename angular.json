@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "tierRanges"
+  "defaultProject": "tierRanges",
+  "cli": {
+    "analytics": false
+  }
 }
